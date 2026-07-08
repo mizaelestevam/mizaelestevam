@@ -10,7 +10,11 @@
 
 ## 🎮 **Jogo da Cobrinha - Minhas Contribuições**
 
+<div align="center">
+
 ![snake gif](https://raw.githubusercontent.com/mizaelestevam/mizaelestevam/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
@@ -45,21 +49,19 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizaelestevam&show_icons=true&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363d&border_radius=10&locale=pt-br)
-
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=mizaelestevam&layout=compact&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&border_color=30363d&border_radius=10&locale=pt-br)
-
-![Sequência de Commits](https://streak-stats.demolab.com?user=mizaelestevam&theme=dark&background=0d1117&stroke=30363d&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=mizaelestevam&show_icons=true&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363d&border_radius=10&locale=pt-br)
 
 </div>
 
----
+<div align="center">
 
-## 🏆 **Conquistas**
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=mizaelestevam&layout=compact&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&border_color=30363d&border_radius=10&locale=pt-br)
+
+</div>
 
 <div align="center">
 
-[![Conquistas GitHub](https://github-profile-trophy.vercel.app/?username=mizaelestevam&theme=dark_dimmed&no-frame=true&margin-w=4&margin-h=4&column=4&no-bg=true)](https://github.com/mizaelestevam?tab=achievements)
+![Sequência de Commits](https://streak-stats.demolab.com?user=mizaelestevam&theme=dark&background=0d1117&stroke=30363d&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD)
 
 </div>
 
