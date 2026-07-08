@@ -2,7 +2,27 @@
 
 # **Mizael Estevam**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=400&height=50&lines=Desenvolvedor+Full+Stack;Code+%26+Coffee)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=500&height=50&lines=Desenvolvedor+Full+Stack;Code+%26+Coffee)
+
+</div>
+
+---
+
+## 🎮 **Jogo da Cobrinha - Minhas Contribuições**
+
+![snake gif](https://raw.githubusercontent.com/mizaelestevam/mizaelestevam/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💭 **Mensagem**
+
+<div align="center">
+
+> **Seja bem-vindo sr.visitante.**
+>
+> *Uma pausa e, logo após,*
+>
+> **Nada salva mais um desenvolvedor do que uma xícara de café.** ☕
 
 </div>
 
@@ -25,7 +45,21 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mizaelestevam&theme=dark&background=0d1117&stroke=30363d&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizaelestevam&show_icons=true&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&icon_color=9D4EDD&border_color=30363d&border_radius=10&locale=pt-br)
+
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=mizaelestevam&layout=compact&theme=dark&bg_color=0d1117&title_color=9D4EDD&text_color=c9d1d9&border_color=30363d&border_radius=10&locale=pt-br)
+
+![Sequência de Commits](https://streak-stats.demolab.com?user=mizaelestevam&theme=dark&background=0d1117&stroke=30363d&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD)
+
+</div>
+
+---
+
+## 🏆 **Conquistas**
+
+<div align="center">
+
+[![Conquistas GitHub](https://github-profile-trophy.vercel.app/?username=mizaelestevam&theme=dark_dimmed&no-frame=true&margin-w=4&margin-h=4&column=4&no-bg=true)](https://github.com/mizaelestevam?tab=achievements)
 
 </div>
 
@@ -45,6 +79,6 @@
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mizaelestevam.mizaelestevam&left_color=0d1117&right_color=00FF00)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mizaelestevam.mizaelestevam&left_color=0d1117&right_color=9D4EDD)
 
 </div>
