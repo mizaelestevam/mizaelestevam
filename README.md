@@ -8,12 +8,6 @@
 
 ---
 
-## 🎮 **Snake Game - Minhas Contribuições**
-
-![snake gif](https://github.com/mizaelestevam/mizaelestevam/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 💻 **Linguagens Utilizadas**
 
 <div align="center">
@@ -30,10 +24,6 @@
 ## 📊 **Estatísticas GitHub**
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizaelestevam&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&icon_color=00FF00&border_color=30363d&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mizaelestevam&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9&border_color=30363d&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mizaelestevam&theme=dark&background=0d1117&stroke=30363d&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)
 
